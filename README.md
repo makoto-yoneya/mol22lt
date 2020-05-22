@@ -1,6 +1,6 @@
 # mol22lt
 
-Perl script translating mol2 to lt.
+Perl script translating mol2 file to LAMMPS template file.
 
 ## Functions
 
@@ -27,4 +27,4 @@ Makoto Yoneya.
 [1]: http://www.csb.yale.edu/userguides/datamanip/dock/DOCK_4.0.1/html/Manual.41.html
 [2]: https://www.moltemplate.org/visual_examples.html 
 [3]: http://ambermd.org/antechamber/antechamber.html 
-[5]: https://makoto-yoneya.github.io/LAMMPS-organics/
+[4]: https://makoto-yoneya.github.io/LAMMPS-organics/
